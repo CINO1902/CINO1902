@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I'm Caleb
+
+
+
+I'm a fullstack software engineer who is passionate on contributing more to open source, creating technology for elevated people and building community. 
+
+Some technology i enjoy working with is Dart(Flutter) as a frontend and Node Js as a backend tool.
+
 
 <!--
 **CINO1902/CINO1902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
